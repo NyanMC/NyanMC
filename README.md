@@ -1,5 +1,5 @@
-- i made trinkplus
-- that's really it, you can move on now
+- i made trinkplus/chromatic arsenal
+- that's really it
 
 <!---
 NyanMC/NyanMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
