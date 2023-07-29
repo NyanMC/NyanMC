@@ -1,4 +1,4 @@
-- i made trinkplus/chromatic arsenal
+- i made chromatic arsenal
 - that's really it
 
 my pronouns were reduced so they could fit, you can find the full list [here](https://en.pronouns.page/@chromanyan)
